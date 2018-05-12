@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '37950'
     url: http://www.gutenberg.org/2009/agents/37950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44379#A-History-of-Mourning
 gutenberg_issued: '2013-12-07'
 gutenberg_type: Text
 identifiers:
