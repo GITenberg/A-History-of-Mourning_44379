@@ -1,0 +1,29 @@
+_repo: A-History-of-Mourning_44379
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44379-h/images/i_front_coverc.jpg
+creator:
+  author:
+    agent_name: Davey, Richard
+    aliases:
+    - Davey, Richard Patrick Boyle
+    - Davey, R. (Richard)
+    birthdate: 1848
+    gutenberg_agent_id: '37950'
+    url: http://www.gutenberg.org/2009/agents/37950
+description: ''
+gutenberg_issued: '2013-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44379'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Mourning customs'
+- !lcsh 'Funeral rites and ceremonies'
+title: A History of Mourning
+url: http://www.gutenberg.org/ebooks/44379
